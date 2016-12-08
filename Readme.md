@@ -76,10 +76,10 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
 
 ## Contributors
 
-*Vishalsingh Hajeri : https://github.com/vsh15
-*Careena Braganza : https://github.com/cmb499
-*Vikti Desai : https://github.com/viktidesai
-*Aneesh Abhyankar : https://github.com/aneesh1993
+* Vishalsingh Hajeri : https://github.com/vsh15
+* Careena Braganza : https://github.com/cmb499
+* Vikti Desai : https://github.com/viktidesai
+* Aneesh Abhyankar : https://github.com/aneesh1993
 
 
 ## Troubleshooting
