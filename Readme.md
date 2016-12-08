@@ -42,9 +42,10 @@ A fast way to get started with the [Google Maps Android API v2](http://developer
 # Motivation
 
 This map application is built for travelers. Plan your summer road trip with friends or find an amazing place nearby you never knew existed. You're always 5 minutes away from something awesome!
+
 Discover millions of places, like local diners and quirky roadside attractions, or scenic points, national parks, and hotels.
 Plan trips directly from the app and know how much time it would take to complete the trip and how much distance you would be travelling. Upload images on your road trip if you find something interesting and tag your friends in those images.
-Any trips you've saved or places you love will sync automatically across devices.
+
 Note: Content currently USA focused only. Continued use of GPS running in the background can decrease battery life.
 
 
@@ -75,11 +76,10 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
 
 ## Contributors
 
-
-Vishalsingh Hajeri : https://github.com/vsh15
-Careena Braganza : https://github.com/cmb499
-Vikti Desai : https://github.com/viktidesai
-Aneesh Abhyankar : https://github.com/aneesh1993
+*Vishalsingh Hajeri : https://github.com/vsh15
+*Careena Braganza : https://github.com/cmb499
+*Vikti Desai : https://github.com/viktidesai
+*Aneesh Abhyankar : https://github.com/aneesh1993
 
 
 ## Troubleshooting
